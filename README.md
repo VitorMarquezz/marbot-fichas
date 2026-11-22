@@ -2,6 +2,10 @@
 
 **App de desktop que automatiza a precificação, as receitas e o financeiro de uma confeitaria real.**
 
+> [!IMPORTANT]
+> **Projeto pensado e executado com Inteligência Artificial.** Da ideia ao app em uso, todo o desenvolvimento foi feito em parceria com IAs: o **Claude** (Anthropic) planejou a arquitetura, escreveu o código e montou as integrações a partir das minhas instruções, e o **Gemini** (Google) roda dentro do app para ler as receitas. O meu papel foi conduzir: definir o problema e os requisitos com a confeitaria, orientar a IA em cada etapa, testar com dados reais e decidir o que mudar. Veja [Como foi construído](#como-foi-construído).
+
+![Claude](https://img.shields.io/badge/Feito%20com-Claude-D97757?logo=anthropic&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-45-47848F?logo=electron&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-6-646CFF?logo=vite&logoColor=white)
@@ -94,7 +98,12 @@ Cerca de 6 mil linhas de código, sem framework de UI nem backend próprio.
 
 ## Como foi construído
 
-Projeto idealizado e desenvolvido por **Vitor Marquez**, usando o **[Claude](https://claude.ai)** (Anthropic) como par de programação. Eu levantei os requisitos com a confeitaria, defini o comportamento de cada tela, testei com receitas e extratos reais e iterei em cima do uso diário; o Claude acelerou a escrita do código e das integrações. Foi um exercício prático de transformar um processo manual em produto, trabalhando com IA de forma orientada.
+Projeto idealizado por **Vitor Marquez** e executado com IAs:
+
+- **[Claude](https://claude.ai) (Anthropic):** planejou a arquitetura, escreveu o código, montou as integrações (Google, Notion, Open Finance, Vercel), testou no app e publicou cada versão — sempre a partir das minhas conversas e pedidos.
+- **Gemini (Google):** é a IA que trabalha dentro do app, lendo receitas em texto ou foto.
+
+O meu trabalho foi o de quem conduz o produto: levantar os requisitos com a confeitaria, descrever o comportamento de cada tela, revisar o que a IA entregava, testar com receitas e extratos reais e decidir as próximas mudanças a partir do uso diário. Foi um exercício prático de transformar um processo manual em produto usando IA de forma orientada.
 
 ## Como rodar
 
