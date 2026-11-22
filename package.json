@@ -1,8 +1,8 @@
 {
   "name": "marbot-fichas",
   "productName": "Marbot Fichas",
-  "description": "Fichas de custo do Marbot Ateliê",
-  "author": "Marbot Ateliê",
+  "description": "Fichas de custo, receitas e financeiro da confeitaria Marbot Ateliê",
+  "author": "Vitor Marquez",
   "private": true,
   "version": "1.0.0",
   "type": "module",
