@@ -1,0 +1,21 @@
+# dependências e builds
+node_modules
+dist
+release
+*.log
+
+# chaves e configurações locais (os modelos sem valores ficam em .env.example)
+.env
+.env.*
+!.env.example
+
+# Vercel (token de login e vínculo do projeto)
+.vercel
+vercel/.env*
+!vercel/.env.example
+
+# ferramentas do editor / sistema
+.claude
+.vscode
+.DS_Store
+Thumbs.db
