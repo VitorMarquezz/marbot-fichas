@@ -11,8 +11,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-serverless-000000?logo=vercel&logoColor=white)
 ![Custo](https://img.shields.io/badge/custo-R%24%200-2ea44f)
 
-<!-- Para o vídeo tocar aqui: no github.com, edite este README, arraste o docs/demo.mp4 para esta linha e salve. -->
-> ▶ **[Assista à demonstração (1 min)](docs/demo.mp4)**
+
+https://github.com/user-attachments/assets/1ecbb5a3-3d29-4913-a8a4-10ba58398d37
+
 
 ---
 
